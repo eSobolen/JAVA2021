@@ -1,0 +1,2 @@
+module idz3 {
+}
